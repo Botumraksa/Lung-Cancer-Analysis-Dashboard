@@ -1,4 +1,7 @@
 # Lung Cancer Analysis Dashboard
+##  Dashboard Preview
+
+![Power BI Dashboard](dashboard.png)
 
 ## 📊 Project Overview
 
