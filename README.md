@@ -1,7 +1,11 @@
 # Lung Cancer Analysis Dashboard
-##  Dashboard Preview
 
-![Power BI Dashboard](2026-06-25 13.46.58.jpg)
+## Dashboard Preview
+
+<p align="center">
+  <img src="./2026-06-25%2013.46.58.jpg" alt="Power BI Lung Cancer Dashboard" width="900"/>
+</p>
+
 
 ## 📊 Project Overview
 
